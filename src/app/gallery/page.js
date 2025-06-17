@@ -82,7 +82,7 @@ export default function GalleryPage() {
           <motion.div
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
+            transition={{ duration: 0.1}}
             className="text-center"
           >
             <h1 className="text-5xl font-bold text-gray-900 mb-6">Before & After Gallery</h1>
@@ -124,7 +124,7 @@ export default function GalleryPage() {
                 key={item.id}
                 initial={{ opacity: 0, y: 50 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: index * 0.1 }}
+                transition={{ duration: 0.1, delay: index * 0.1 }}
                 viewport={{ once: true }}
                 className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
               >

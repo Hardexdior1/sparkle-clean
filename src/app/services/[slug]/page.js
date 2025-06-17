@@ -64,7 +64,7 @@ const servicesData = {
     description:
       "Comprehensive deep cleaning service perfect for move-ins, move-outs, or seasonal cleaning. We clean areas that regular cleaning doesn't reach.",
     duration: "4-8 hours",
-    image: "/placeholder.svg?height=500&width=600",
+    image: "https://img.freepik.com/free-photo/full-shot-people-cleaning-office_23-2150454486.jpg?semt=ais_hybrid&w=740",
     packages: {
       standard: {
         name: "Standard Deep Clean",
@@ -106,7 +106,7 @@ const servicesData = {
     description:
       "Professional commercial cleaning services for offices, retail spaces, and business facilities. Flexible scheduling to meet your business needs.",
     duration: "2-6 hours",
-    image: "/placeholder.svg?height=500&width=600",
+    image: "https://img.freepik.com/premium-photo/professional-service-team-cleaning-company_161094-21666.jpg?ga=GA1.1.620112731.1750165519&semt=ais_hybrid&w=740",
     packages: {
       basic: {
         name: "Basic Office Clean",
@@ -159,7 +159,7 @@ const servicesData = {
     description:
       "Professional carpet and upholstery cleaning using advanced steam cleaning technology. Perfect for removing stains, odors, and allergens.",
     duration: "2-4 hours",
-    image: "/placeholder.svg?height=500&width=600",
+    image: "https://img.freepik.com/premium-photo/team-service-workers-cleaning-sofa-carpet-cuisine-table-panoramic-window_161094-21349.jpg?ga=GA1.1.620112731.1750165519&semt=ais_hybrid&w=740",
     packages: {
       carpet: {
         name: "Carpet Cleaning",
@@ -210,7 +210,7 @@ const servicesData = {
     description:
       "Professional interior and exterior window cleaning service. Streak-free results guaranteed with eco-friendly cleaning solutions.",
     duration: "1-4 hours",
-    image: "/placeholder.svg?height=500&width=600",
+    image: "https://img.freepik.com/free-photo/medium-shot-people-cleaning-building_23-2150454555.jpg?ga=GA1.1.620112731.1750165519&semt=ais_hybrid&w=740",
     packages: {
       interior: {
         name: "Interior Only",
@@ -261,7 +261,7 @@ const servicesData = {
     description:
       "Comprehensive cleaning service for property transitions. Perfect for getting your security deposit back or preparing your new home.",
     duration: "4-8 hours",
-    image: "/placeholder.svg?height=500&width=600",
+    image: "https://img.freepik.com/free-photo/happy-people-volunteering-special-causes_23-2148687314.jpg?ga=GA1.1.620112731.1750165519&semt=ais_hybrid&w=740",
     packages: {
       moveout: {
         name: "Move-Out Clean",
