@@ -1,0 +1,47 @@
+.animate{
+    height:100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+animation-name: anime ;
+animation-duration: 6s;
+border-radius: 5%;
+font-family: 'Poppins', sans-serif;
+animation-timing-function: linear;
+animation-delay: 5s;
+animation-iteration-count: 1;
+animation-direction: alternate;
+animation-fill-mode: forwards;
+}
+
+@keyframes anime{
+    0%{
+
+    }
+    50%{
+        scale: 1.5;
+        border-radius: 0;
+        background-color: green;
+              transform: rotate(0);
+
+    }
+    100%{
+        border-radius: 50%;
+      transform: rotate(360deg);
+      scale: 2;
+              background-color: black;
+
+
+    }
+
+}
+/* trbl */
+.animate-box{
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8% 0px 8% 0px;
+}
