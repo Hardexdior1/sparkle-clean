@@ -2,7 +2,6 @@
 import { motion } from "framer-motion"
 import { useState } from "react"
 import BeforeAfterComparison from "../components/BeforeCompanrioson"
-import Image from "next/image"
 export default function GalleryPage() {
   const [activeFilter, setActiveFilter] = useState("all")
 
