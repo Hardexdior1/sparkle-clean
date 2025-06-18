@@ -46,7 +46,7 @@ export default function AboutPage() {
     },
     {
       icon: <SparklesIcon className="h-8 w-8 text-blue-600" />,
-      title: "Excellence",
+      title: "Excelllence",
       description: "We strive for perfection in every cleaning task we undertake",
     },
     {
