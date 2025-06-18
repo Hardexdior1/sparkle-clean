@@ -174,7 +174,6 @@ import { useState } from "react"
 import Image from "next/image"
 import { CheckCircleIcon, ClockIcon } from "@heroicons/react/24/solid"
 
-// All services data
 
 
 export default function ServiceDetailPage({service}) {

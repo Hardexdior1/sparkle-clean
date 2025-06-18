@@ -144,10 +144,15 @@ export default function ContactPage() {
 
             {/* Contact Form */}
             <motion.div
-              initial={{ opacity: 0, x: 50 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.8 }}
-              viewport={{ once: true }}
+              // initial={{ opacity: 0, x: 50 }}
+              // whileInView={{ opacity: 1, x: 0 }}
+              // transition={{ duration: 0.8 }}
+              // viewport={{ once: true }}
+
+                 initial={{ opacity: 0, y: 50 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8 }}
+            viewport={{ once: true }}
               className="lg:col-span-2"
             >
               <div className="bg-white rounded-2xl shadow-xl p-8 border border-gray-100">

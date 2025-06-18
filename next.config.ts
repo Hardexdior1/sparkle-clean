@@ -9,7 +9,9 @@ const nextConfig: NextConfig = {
       "images.pexels.com",
       "img.freepik.com",
       "cdn.punchng.com",
-      "encrypted-tbn0.gstatic.com"
+      "encrypted-tbn0.gstatic.com",
+      "lh3.googleusercontent.com",
+      "i.redd.it"
     ],
   },
 };
