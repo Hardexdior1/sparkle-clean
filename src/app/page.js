@@ -101,7 +101,7 @@ export default function HomePage() {
     {
       question: "What if I'm not satisfied with the cleaning service?",
       answer:
-        "Your satisfaction is our top priority! If you're not completely happy with any aspect of our service, please contact us within 24 hours, and we'll return to re-clean the areas of concern at no additional cost. We stand behind our work with a 100% satisfaction guarantee.",
+        'Your satisfaction is our top priority! If you"re not completely happy with any aspect of our service, please contact us within 24 hours, and we"ll return to re-clean the areas of concern at no additional cost. We stand behind our work with a 100% satisfaction guarantee.',
     },
     {
       question: "How do you handle breakage or damage?",
